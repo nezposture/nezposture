@@ -16,5 +16,5 @@
   <br>
   to be quick with checking notifs
   <br>
-  <img src="https://64.media.tumblr.com/64eebb3267828eac4b92be9e498bcc2e/7e983b911b6bf8de-6d/s250x400/ac6f96314caeecfd14b5d575c27e4bfdeb2c7c45.gifv"width="150" height="20"/> <img src="https://64.media.tumblr.com/6c429488692eafeab1806a0775885a0f/97d599cc05c3c0b0-7a/s400x600/59832b38f8f110ccdd3e2a525efb9901be90a087.webp"width="150" height="20"/>
+  <img src="https://64.media.tumblr.com/5d63278857b2d9b08491f00d27270a27/09ed613974f5691b-a7/s540x810/3d61d3b2bc21894ab45896692e9b27b105d5520b.gifv"/> 
 </p>
